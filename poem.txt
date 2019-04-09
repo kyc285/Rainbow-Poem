@@ -1,4 +1,4 @@
-The Rainbox
+The Rainbow and the Unicorn
 
 Purple 
 Pink 
@@ -6,6 +6,8 @@ Orange
 Blue 
 Red
 Green
+Unicorn
 Yellow
 
-These are the colors of the rainbow. 
+These are the colors of the rainbow
+and the unicorn
